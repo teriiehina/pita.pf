@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>pita.pf</title>
+    <link href="https://pita.pf/feed.xml" rel="self" />
+    <link href="https://pita.pf" />
+    <updated>2025-01-15T10:14:23-10:00</updated>
+    <author>
+        <name>Pita</name>
+    </author>
+    <id>https://pita.pf</id>
+
+    <entry>
+        <title>yet another test</title>
+        <author>
+            <name>Pita</name>
+        </author>
+        <link href="https://pita.pf/yet-another-test.html"/>
+        <id>https://pita.pf/yet-another-test.html</id>
+
+        <updated>2025-01-15T10:14:23-10:00</updated>
+            <summary>
+                <![CDATA[
+                    just for fun
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>just for fun</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

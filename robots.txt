@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pita.pf/sitemap.xml
